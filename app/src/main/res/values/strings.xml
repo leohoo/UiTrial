@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UiTrial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="step1">ボールにたねの材料を入、粘りが出るまでよく混ぜる。10等分にし、平らな円形にまるめる。片栗粉、水各大さじ１を混ぜ水とき片栗粉を作る。</string>
+    <string name="step2">たねをフライパンにサラダ油大さじ１を中火で熱し、たねを並べ入れ、両面にこんがりと焼き色がつくまで３分くらいずつ焼く。水大さじ１を入れ、オクラを入れ、蓋をして2-3分蒸し焼きにして、器にもる。フライパンをさっとふき、甘酢あんの材料を入れ中火にかける。煮たったら水とき片栗粉を入れとろみをつけ、肉団子にかけて、出来上がりです～☆</string>
+</resources>
